@@ -29,21 +29,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-white.svg?palette=github-white
 
-      - name: Push to output branch
-        run: |
-          mkdir -p dist
-          
-          # Configure git
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          
-          # Create or checkout output branch
-          git fetch origin output 2>/dev/null || true
-          git checkout -b output origin/output 2>/dev/null || git checkout --orphan output
-          
-          # Stage and commit
-          git add dist/
-          git commit -m "Automated snake animation" --allow-empty || true
-          git push -u origin output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-git-commit@v4.0.0-dev
+        with:
+          repository: .
+          branch: output
+          commit_message: 'Automated snake animation'
+          files: |
+            dist/*
