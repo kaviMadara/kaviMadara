@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/kaviMadara"><img src="https://img.shields.io/github/followers/kaviMadara?label=Followers&logo=github&style=for-the-badge&color=00F5FF&logoColor=white"/></a>
-<a href="https://github.com/kaviMadara?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-10%2B_Projects-00F5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/kaviMadara?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-100%2B_Projects-00F5FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://kaviemadara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF006E?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 <a href="https://linkedin.com/in/madara-wijesinghe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -17,7 +17,7 @@
 
 > *Code with purpose. Design with empathy. Build for impact.*
 
-I'm a **Senior Software Engineer** with **4+ years** of experience building scalable enterprise applications and cloud-native solutions. Passionate about turning complex problems into elegant, user-centered solutions.
+I'm a **Senior Software Engineer** with **8+ years** of experience building scalable enterprise applications and cloud-native solutions. Passionate about turning complex problems into elegant, user-centered solutions.
 
 <table>
 <tr>
@@ -36,7 +36,7 @@ I'm a **Senior Software Engineer** with **4+ years** of experience building scal
 
 ### 📚 Education & Expertise
 - 🎓 MSc in IT Management
-- 💼 10+ Enterprise Clients
+- 💼 15+ Enterprise Clients
 - 🌍 Global Project Experience
 - 🏆 Full-Stack Architecture
 - 🔐 Security & Best Practices
@@ -80,6 +80,8 @@ I'm a **Senior Software Engineer** with **4+ years** of experience building scal
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -122,11 +124,15 @@ I'm a **Senior Software Engineer** with **4+ years** of experience building scal
 ### 🚍 YamanBuddy
 Advanced transportation tracking and management system with real-time GPS integration and fleet analytics.
 
+**Tech:** Angular • .NET Core • Azure • SQL Server
+
 </td>
 <td width="50%">
 
 ### 📦 Transport Management System
 Enterprise-grade logistics platform for route optimization and delivery tracking.
+
+**Tech:** React • Spring Boot • AWS • PostgreSQL
 
 </td>
 </tr>
@@ -136,11 +142,15 @@ Enterprise-grade logistics platform for route optimization and delivery tracking
 ### 🏭 Manufacturing Execution System
 Real-time production monitoring and quality control system for industrial operations.
 
+**Tech:** Angular • .NET • Azure IoT • SQL Server
+
 </td>
 <td width="50%">
 
 ### 🏫 School Management System
 Comprehensive educational platform with attendance, grades, and communication modules.
+
+**Tech:** Laravel • React • MySQL • Bootstrap
 
 </td>
 </tr>
@@ -150,11 +160,15 @@ Comprehensive educational platform with attendance, grades, and communication mo
 ### 🛒 NCCSL E-Commerce
 High-performance online marketplace with payment integration and inventory management.
 
+**Tech:** Next.js • Node.js • MongoDB • Stripe
+
 </td>
 <td width="50%">
 
 ### 🩺 Healthcare Diagnostic Platform
 AI-powered medical diagnostics system with patient management and telemedicine features.
+
+**Tech:** React • Python • TensorFlow • Firebase
 
 </td>
 </tr>
@@ -164,54 +178,45 @@ AI-powered medical diagnostics system with patient management and telemedicine f
 ### 🐘 Elephant Tracking System
 IoT-enabled wildlife monitoring system for conservation with real-time geolocation and behavioral analysis.
 
+**Tech:** React • Node.js • IoT • Machine Learning • AWS
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics & Analytics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/kaviMadara">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaviMadara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&cache_seconds=86400"/>
+</a>
+<a href="https://github.com/kaviMadara">
+<img height="180" src="https://streak-stats.demolab.com?user=kaviMadara&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=00F5FF&fire=FF006E&currStreakLabel=00F5FF"/>
+</a>
+</p>
 
-### ⚡ Activity Overview
-<img src="https://readme-stats-47fpll7zl-kavimadaras-projects.vercel.app/api?username=kaviMadara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&icon_color=FF006E&count_private=true&include_all_commits=true" alt="GitHub Stats" style="animation: fadeIn 0.6s ease-in;"/>
+<p align="center">
+<a href="https://github.com/kaviMadara">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviMadara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&cache_seconds=86400"/>
+</a>
+</p>
 
-</div>
+### 📈 Activity Graph
+<p align="center">
+<a href="https://github.com/kaviMadara">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviMadara&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&area_color=FF006E&point_color=00F5FF&line_color=FF006E"/>
+</a>
+</p>
 
-<div align="center">
+### 🐍 Contribution Snake Animation
 
-### 🔥 Contribution Streak
-<img src="https://streak-stats.demolab.com?user=kaviMadara&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F5FF&ring=FF006E&fire=FF006E&currStreakLabel=00F5FF&dates=00F5FF" alt="GitHub Streak" style="animation: slideIn 0.6s ease-out;"/>
-
-</div>
-
-<div align="center">
-
-### 💻 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviMadara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages" style="animation: fadeIn 0.8s ease-in;"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaviMadara&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=FF006E&point=00F5FF&area_color=1f2937)](https://github.com/kaviMadara)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake.svg)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -254,6 +259,18 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 
 ---
 
+## 📊 Dynamic Metrics
+
+<div align="center">
+
+| 💻 Experience | 🎯 Projects | 👥 Clients | 📚 Open Source |
+|:---:|:---:|:---:|:---:|
+| ![Years](https://img.shields.io/badge/8%2B-Years-FF006E?style=flat-square&logo=codetime&logoColor=white) | ![Projects](https://img.shields.io/badge/50%2B-Completed-00F5FF?style=flat-square&logo=github&logoColor=white) | ![Clients](https://img.shields.io/badge/15%2B-Served-FFD700?style=flat-square&logo=handshake&logoColor=black) | ![Status](https://img.shields.io/badge/Active-Contributor-6DB33F?style=flat-square&logo=git&logoColor=white) |
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -274,6 +291,52 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 - ⚡ Edge computing solutions
 - 📊 Real-time data analytics
 - 🎮 Game development with Unity
+
+---
+
+## 🐍 Setup Instructions for Snake Animation
+
+To enable the snake animation, you need to create a GitHub workflow file:
+
+1. **Create `.github/workflows/snake.yml`** with the following content:
+
+```yaml
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-svg
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-white.svg?palette=github-white
+
+      - uses: crazy-max/ghaction-git-commit@v4
+        with:
+          branch: output
+          commit_message: 'Automated snake animation'
+          file_pattern: 'dist/*'
+```
+
+2. **Push to your repository** - the workflow will run automatically
+3. **The snake animation** will appear in the "Contribution Snake Animation" section above
 
 ---
 
