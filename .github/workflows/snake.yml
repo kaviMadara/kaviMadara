@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -27,13 +27,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-white.svg?palette=github-white
 
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-git-commit@v4.0.0-dev
-        with:
-          repository: .
-          branch: output
-          commit_message: 'Automated snake animation'
-          files: |
-            dist/*
+      - name: Deploy to output branch
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          
+          git checkout --orphan output
+          git rm -rf .
+          git add dist/
+          git commit -m "Automated snake animation" || exit 0
+          git push -f origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
