@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Madara Wijesinghe
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+Software+Engineer;💻+Full+Stack+Developer;☁️+Cloud+Architect;🤖+AI+%26+IoT+Specialist;🎨+UI%2FUX+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+Software+Engineer;💻+Full+Stack+Developer;☁️+Cloud+Engineer;🤖+AI+%26+IoT+Specialist;🎨+UI%2FUX+Designer" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 > *Code with purpose. Design with empathy. Build for impact.*
 
-I'm a **Senior Software Engineer** with **8+ years** of experience building scalable enterprise applications and cloud-native solutions. Passionate about turning complex problems into elegant, user-centered solutions.
+I'm a **Senior Software Engineer** with **4+ years** of experience building scalable enterprise applications and cloud-native solutions. Passionate about turning complex problems into elegant, user-centered solutions.
 
 <table>
 <tr>
@@ -124,15 +124,11 @@ I'm a **Senior Software Engineer** with **8+ years** of experience building scal
 ### 🚍 YamanBuddy
 Advanced transportation tracking and management system with real-time GPS integration and fleet analytics.
 
-**Tech:** Angular • .NET Core • Azure • SQL Server
-
 </td>
 <td width="50%">
 
 ### 📦 Transport Management System
 Enterprise-grade logistics platform for route optimization and delivery tracking.
-
-**Tech:** React • Spring Boot • AWS • PostgreSQL
 
 </td>
 </tr>
@@ -142,15 +138,11 @@ Enterprise-grade logistics platform for route optimization and delivery tracking
 ### 🏭 Manufacturing Execution System
 Real-time production monitoring and quality control system for industrial operations.
 
-**Tech:** Angular • .NET • Azure IoT • SQL Server
-
 </td>
 <td width="50%">
 
 ### 🏫 School Management System
 Comprehensive educational platform with attendance, grades, and communication modules.
-
-**Tech:** Laravel • React • MySQL • Bootstrap
 
 </td>
 </tr>
@@ -168,8 +160,6 @@ High-performance online marketplace with payment integration and inventory manag
 ### 🩺 Healthcare Diagnostic Platform
 AI-powered medical diagnostics system with patient management and telemedicine features.
 
-**Tech:** React • Python • TensorFlow • Firebase
-
 </td>
 </tr>
 <tr>
@@ -177,8 +167,6 @@ AI-powered medical diagnostics system with patient management and telemedicine f
 
 ### 🐘 Elephant Tracking System
 IoT-enabled wildlife monitoring system for conservation with real-time geolocation and behavioral analysis.
-
-**Tech:** React • Node.js • IoT • Machine Learning • AWS
 
 </td>
 </tr>
@@ -265,7 +253,7 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 
 | 💻 Experience | 🎯 Projects | 👥 Clients | 📚 Open Source |
 |:---:|:---:|:---:|:---:|
-| ![Years](https://img.shields.io/badge/8%2B-Years-FF006E?style=flat-square&logo=codetime&logoColor=white) | ![Projects](https://img.shields.io/badge/50%2B-Completed-00F5FF?style=flat-square&logo=github&logoColor=white) | ![Clients](https://img.shields.io/badge/15%2B-Served-FFD700?style=flat-square&logo=handshake&logoColor=black) | ![Status](https://img.shields.io/badge/Active-Contributor-6DB33F?style=flat-square&logo=git&logoColor=white) |
+| ![Years](https://img.shields.io/badge/4%2B-Years-FF006E?style=flat-square&logo=codetime&logoColor=white) | ![Projects](https://img.shields.io/badge/50%2B-Completed-00F5FF?style=flat-square&logo=github&logoColor=white) | ![Clients](https://img.shields.io/badge/15%2B-Served-FFD700?style=flat-square&logo=handshake&logoColor=black) | ![Status](https://img.shields.io/badge/Active-Contributor-6DB33F?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -277,8 +265,8 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 <a href="https://linkedin.com/in/madara-wijesinghe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/kaviMadara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://kaviemadara.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-<a href="https://dribbble.com/kaviMadara"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
-<a href="https://behance.net/kaviMadara"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="https://dribbble.com/kavindieS"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
+<a href="https://www.behance.net/madarawijesin"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="mailto:kawiwijesinghe@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
