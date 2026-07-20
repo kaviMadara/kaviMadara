@@ -36,7 +36,7 @@ I'm a **Senior Software Engineer** with **4+ years** of experience building scal
 
 ### 📚 Education & Expertise
 - 🎓 MSc in IT Management
-- 💼 15+ Enterprise Clients
+- 💼 5+ Enterprise Clients
 - 🌍 Global Project Experience
 - 🏆 Full-Stack Architecture
 - 🔐 Security & Best Practices
@@ -253,7 +253,7 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 
 | 💻 Experience | 🎯 Projects | 👥 Clients | 📚 Open Source |
 |:---:|:---:|:---:|:---:|
-| ![Years](https://img.shields.io/badge/4%2B-Years-FF006E?style=flat-square&logo=codetime&logoColor=white) | ![Projects](https://img.shields.io/badge/50%2B-Completed-00F5FF?style=flat-square&logo=github&logoColor=white) | ![Clients](https://img.shields.io/badge/15%2B-Served-FFD700?style=flat-square&logo=handshake&logoColor=black) | ![Status](https://img.shields.io/badge/Active-Contributor-6DB33F?style=flat-square&logo=git&logoColor=white) |
+| ![Years](https://img.shields.io/badge/4%2B-Years-FF006E?style=flat-square&logo=codetime&logoColor=white) | ![Projects](https://img.shields.io/badge/10%2B-Completed-00F5FF?style=flat-square&logo=github&logoColor=white) | ![Clients](https://img.shields.io/badge/5%2B-Served-FFD700?style=flat-square&logo=handshake&logoColor=black) | ![Status](https://img.shields.io/badge/Active-Contributor-6DB33F?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
