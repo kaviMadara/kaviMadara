@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Madara Wijesinghe
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+Software+Engineer;💻+Full+Stack+Developer;☁️+Cloud+Engineer;🤖+AI+%26+IoT+Specialist;🎨+UI%2FUX+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=🚀+Senior+Software+Engineer;💻+Full+Stack+Developer;☁️+Cloud+Engineer;🤖+AI+%26+IoT+Specialist;🎨+UI%2FUX+Engineer" />
 </p>
 
 <p align="center">
@@ -198,7 +198,7 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 </a>
 </p>
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/dist/github-contribution-grid-snake-dark.svg">
