@@ -201,9 +201,9 @@ IoT-enabled wildlife monitoring system for conservation with real-time geolocati
 ### 🐍 Contribution Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaviMadara/kaviMadara/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
 ---
